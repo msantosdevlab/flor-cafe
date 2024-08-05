@@ -1,0 +1,45 @@
+# Build files and directories
+HELP.md
+target/
+_Docs/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Build directories for the server folder (Spring Boot)
+server/target/
+server/.mvn/
+server/.mvn/wrapper/maven-wrapper.jar
+
+# Build directories for the client folder (React)
+client/node_modules/
+client/build/
+
+# Ignore project-specific files and directories
+### STS ###
+server/.apt_generated
+server/.classpath
+server/.factorypath
+server/.project
+server/.settings
+server/.springBeans
+server/.sts4-cache
+
+### IntelliJ IDEA ###
+server/.idea/
+server/*.iws
+server/*.iml
+server/*.ipr
+
+### NetBeans ###
+server/nbproject/private/
+server/nbbuild/
+server/dist/
+server/nbdist/
+server/.nb-gradle/
+server/build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
