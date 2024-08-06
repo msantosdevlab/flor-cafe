@@ -44,5 +44,7 @@ O site é composto pelas seguintes páginas:
 - **Menu Responsivo**: Links para todas as páginas do site.
 
 ## Design
-em desenvolvimento...
+O design do site Flor Café foi cuidadosamente elaborado por mim utilizando o Figma: [ver design](https://www.figma.com/design/YfR5oD27qacs58bS0cmK3t/Flor-Caf%C3%A9?node-id=0-1&t=OQAbsjBwKKkLl1M0-1)
+![Flor_Cafe_Home](https://github.com/user-attachments/assets/3dda47d3-347d-42c1-9167-ef12bb2576a1)
+
 
